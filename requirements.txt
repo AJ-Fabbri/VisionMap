@@ -1,0 +1,12 @@
+open-clip-torch
+umap-learn
+pillow
+plotly
+streamlit
+pandas
+numpy
+torch
+torchvision
+tqdm
+hdbscan
+timm
